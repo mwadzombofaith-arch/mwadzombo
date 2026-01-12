@@ -1,13 +1,13 @@
 body {
   font-family: Arial, sans-serif;
   margin: 0;
-  background-color: #fff5f8;
-  color: #444;
+  background-color: mistyrose;
+  color: dimgray;
   text-align: center;
 }
 
 header {
-  background-color: #f2a7c6;
+  background-color: lightpink;
   color: white;
   padding: 30px;
 }
@@ -20,7 +20,7 @@ section {
 }
 
 h2 {
-  color: #c44569;
+  color: palevioletred;
 }
 
 ul {
@@ -31,9 +31,15 @@ ul {
 li {
   padding: 8px;
 }
+img {
+  width: 250px;
+  border-radius: 10px;
+  margin: 10px;
+}
+
 
 footer {
-  background-color: #f2a7c6;
+  background-color: lightpink;
   color: white;
   padding: 10px;
   margin-top: 20px;
